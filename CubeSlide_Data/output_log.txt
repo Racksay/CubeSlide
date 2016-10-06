@@ -6,40 +6,28 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     3072 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.131 seconds
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\FirstGame\CubeSlide_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.147 seconds
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Edvin\Google Drive\UnityGames\CubeSlide\CubeSlide_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 59Hz; virtual: 4480x1440 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.711981 ms
-Entered trigger
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Entered
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Entered
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
+UnloadTime: 4.535931 ms
 Entered
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2388 -> priority: 1 
-  Thread -> id: 1d90 -> priority: 1 
+  Thread -> id: 1348 -> priority: 1 
+  Thread -> id: 398c -> priority: 1 
